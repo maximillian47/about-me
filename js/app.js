@@ -7,7 +7,7 @@ console.log('hello universe');
 var userName = prompt('Hello, what is your name?');
 alert('Hello ' +userName + ', nice to meet you.');
 
-var quetion1 = prompt("Do I have a middle name?").toLowerCase();
+var question1 = prompt("Do I have a middle name?").toLowerCase();
 
 if(question1 === 'yes' || question1 === 'y'){
   // console.log('good');
