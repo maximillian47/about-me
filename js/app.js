@@ -16,7 +16,7 @@ if(question1 === 'yes' || question1 === 'y'){
   alert('incorrect')
 )
 
-var quetion2 = prompt("Do I drive a sedan?").toLowerCase();
+var question2 = prompt("Do I drive a sedan?").toLowerCase();
 
 if(question2 === 'yes' || question1 === 'y'){
   // console.log('good');
@@ -25,7 +25,7 @@ if(question2 === 'yes' || question1 === 'y'){
   alert('incorrect')
 )
 
-var quetion3 = prompt("Do I have a dog?").toLowerCase();
+var question3 = prompt("Do I have a dog?").toLowerCase();
 
 if(question3 === 'yes' || question1 === 'y'){
   // console.log('good');
@@ -34,7 +34,7 @@ if(question3 === 'yes' || question1 === 'y'){
   alert('incorrect')
 )
 
-var quetion4 = prompt("Do I have a cat?").toLowerCase();
+var question4 = prompt("Do I have a cat?").toLowerCase();
 
 if(question4 === 'yes' || question1 === 'y'){
  // console.log('good');
@@ -43,7 +43,7 @@ if(question4 === 'yes' || question1 === 'y'){
   alert('incorrect')
 )
 
-var quetion5 = prompt("Do I have children?").toLowerCase();
+var question5 = prompt("Do I have children?").toLowerCase();
 
 if(question5 === 'no' || question1 === 'n'){
   // console.log('good');
